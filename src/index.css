@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#miw {
+	color: red;
+	font-family: source-code-pro;
+}
+
+#hada {
+	border-radius: 50%;
+}
+
+#daTitle {
+	color : yellow;
+	font-family: Menlo;
+}
